@@ -1,5 +1,5 @@
 Begginer Web Developer 
 
-HTML | CSS | JavaScript | React | Redux | Bootstrap | Saas | Python | Django | 
+HTML | CSS | JavaScript | React | Bootstrap | Tailwind | Sass | Python | Django | Figma |
 
 Vue.js Express.js in Progres
