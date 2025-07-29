@@ -59,9 +59,7 @@ I specialize in HTML, CSS, JavaScript, React — and I use **GSAP.js** extensive
 
 ### 💼 Projects Coming Soon...
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FF00&center=true&width=435&lines=Future+portfolio+projects+coming+soon...;Stay+tuned+for+interactive+UI+magic!;3D,+motion+and+GSAP-powered+creations!" alt="Animated project banner" />
-</p>
+
 
 ---
 
