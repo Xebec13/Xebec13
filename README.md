@@ -36,9 +36,10 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma,gsap" alt="skills icons" />
-    <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" alt="GSAP Logo" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma" alt="skills icons" />
+    
   </a>
+  <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" alt="GSAP Logo" width="40" height="40"/>
 </p>
 I specialize in HTML, CSS, JavaScript, React — and I use **GSAP.js** extensively for smooth and creative animations.
 
