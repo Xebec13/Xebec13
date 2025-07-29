@@ -1,4 +1,4 @@
-<h3 align="left" style="font-size:28px; font-weight:bold; margin-bottom:1rem;">⚓ Front-End Developer with a pirate’s grit and a craftsman’s eye for UI.</h3>
+<h3 align="center" style="font-size:28px; font-weight:bold; margin-bottom:1rem;">⚓ Front-End Developer with a pirate’s grit and a craftsman’s eye for UI.</h3>
 
 ---
 
