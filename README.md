@@ -1,86 +1,95 @@
-<!-- 🎯 ANIMOWANY BANER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&background=6f1961&center=true&width=1000&lines=⚓+Ahoy!+I'm+Xebec13%2C+Front-End+Developer;Sailing+clean+code%2C+sharp+UI%2C+and+GSAP-powered+motion;Crafting+web+experiences+with+React%2C+Tailwind+and+magic+✨" alt="Xebec13 Banner" />
+<h1 align="center" style="color:#ffffff;">⚓ Front-End Developer with a pirate’s grit and a craftsman’s eye for UI.</h1>
+
+---
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1200&color=6f1961&center=true&width=380&lines=🧭+About+Me" alt="About Me" style="display:inline-block; vertical-align:middle;" />  
+
+<p style="color:#ffffff;">
+Ahoy! I'm <strong>Xebec13</strong>, a focused and fearless Front-End Developer.<br>
+I build fast, responsive, and visually sharp web apps using <strong>HTML, CSS, JavaScript</strong>, and <strong>React</strong>.<br>
+I code with precision, design with intention, and deploy with style.<br>
+Always in search of beauty in code, I sail beyond the basics — into animation and design finesse with <strong style="color:#00FF00;">GSAP.js</strong>, <strong>Figma</strong>, and <strong>Tailwind CSS</strong>.
 </p>
 
 ---
 
-### 🧭 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=300&lines=About+Me" alt="About Me Typing" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1200&color=6f1961&center=true&width=350&lines=🌱+Currently+Learning" alt="Currently Learning" style="display:inline-block; vertical-align:middle;" />
 
-Ahoy! I'm **Xebec13**, a focused and fearless Front-End Developer.  
-I build fast, responsive, and visually sharp web apps using **HTML, CSS, JavaScript**, and **React**.  
-I code with precision, design with intention, and deploy with style.  
-Always in search of beauty in code, I sail beyond the basics — into animation and design finesse with **<span style="color:#00FF00;font-weight:bold;">GSAP.js</span>**, **Figma**, and **Tailwind CSS**.
-
----
-
-### 🌱 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=350&lines=Currently+Learning" alt="Currently Learning Typing" />
-
-- **TypeScript**, **Three.js**, and everything related to **web animation**  
+<p style="color:#ffffff;">
+- <strong>TypeScript</strong>, <strong>Three.js</strong>, and everything related to <strong>web animation</strong><br>
 - Exploring creative coding, 3D effects, motion, and interaction design for immersive UI experiences
-
----
-
-### 📫 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=320&lines=Reach+Me" alt="Reach me Typing" />
-
-- **Email**: dhoesen@gmail.com  
-- **Codepen**: [codepen.io/xebec13](https://codepen.io/xebec13)  
-- **Stack Overflow**: [Xebec13 on StackOverflow](https://stackoverflow.com/users/xebec13)
-
----
-
-### ⚡ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=340&lines=Specializing+In" alt="Specializing In Typing" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" style="margin: 10px;" />
-  <span style="font-size:18px; margin-left:20px;"><strong style="color:#00FF00;">GSAP.js</strong></span>
-</p>
-
-<p align="center"><strong style="color:#00FF00">GSAP.js</strong> is my go-to for smooth and creative animations.  
-I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI design, animation, and visual interaction.</p>
-
----
-
-### 🛠️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=380&lines=Other+Tools+%26+Technologies" alt="Tools Typing" />
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" style="margin: 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="margin: 10px;" />
 </p>
 
 ---
 
-### 💼 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=280&lines=Projects+Coming+Soon..." alt="Projects Typing" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1200&color=6f1961&center=true&width=300&lines=📫+Reach+Me+At" alt="Reach Me At" style="display:inline-block; vertical-align:middle;" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FF00&center=true&width=435&lines=Future+portfolio+projects+coming+soon...;Stay+tuned+for+interactive+UI+magic!;3D,+motion+and+GSAP-powered+creations!" alt="Animated project banner" />
+<p style="color:#ffffff;">
+- <strong>Email</strong>: dhoesen@gmail.com<br>
+- <strong>Codepen</strong>: <a href="https://codepen.io/xebec13" style="color:#00FFFF;">codepen.io/xebec13</a><br>
+- <strong>Stack Overflow</strong>: <a href="https://stackoverflow.com/users/xebec13" style="color:#00FFFF;">Xebec13 on StackOverflow</a>
 </p>
 
 ---
 
-### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=280&lines=GitHub+Stats" alt="Stats Typing" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1200&color=6f1961&center=true&width=250&lines=⚡+Specializing+In" alt="Specializing In" style="display:inline-block; vertical-align:middle;" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xebec13&show_icons=true&locale=en&layout=compact" alt="xebec13" style="margin-bottom:10px;" />
+<p align="center" style="margin-top:0; margin-bottom:1.5rem;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin:0 12px; vertical-align:middle;" />
+  <span style="font-size:40px; font-weight:bold; color:#00FF00; margin-left:12px; vertical-align:middle;">GSAP.js</span>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xebec13&show_icons=true&locale=en" alt="xebec13" />
+<p align="center" style="color:#00FF00; font-weight:bold;">
+GSAP.js is my go-to for smooth and creative animations.<br>
+I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI design, animation, and visual interaction.
 </p>
+
+---
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1200&color=6f1961&center=true&width=350&lines=🛠+Other+Tools+%26+Technologies" alt="Other Tools & Technologies" style="display:inline-block; vertical-align:middle;" />
+
+<p align="center" style="margin-top:0; margin-bottom:2rem;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin:0 15px; vertical-align:middle;" />
+</p>
+
+---
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1200&color=6f1961&center=true&width=250&lines=🚀+Projects" alt="Projects" style="display:inline-block; vertical-align:middle;" />
+
+<p align="center" style="color:#ffffff; font-style:italic; font-size:1.2rem; margin-top:1rem;">
+Here will be my projects soon!<br>
+Stay tuned for smooth, creative, and animated showcases.
+</p>
+
+---
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1200&color=6f1961&center=true&width=250&lines=📊+GitHub+Stats" alt="GitHub Stats" style="display:inline-block; vertical-align:middle;" />
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xebec13&show_icons=true&locale=en&layout=compact" alt="xebec13" style="margin-right:15px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xebec13&show_icons=true&locale=en" alt="xebec13" />
+</p>
+
+<style>
+  body {
+    background-color: #6f1961 !important;
+  }
+</style>
