@@ -83,7 +83,3 @@ I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xebec13&show_icons=true&locale=en&layout=compact" alt="xebec13" style="margin-bottom:10px;" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xebec13&show_icons=true&locale=en" alt="xebec13" />
-</p>
