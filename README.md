@@ -3,14 +3,14 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Ahoy%2C+I'm+Xebec13!;Crafting+clean%2C+animated+and+responsive+UIs.;Fueled+by+React%2C+GSAP%2C+Tailwind+and+coffee." alt="intro typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Xebec13!;Crafting+clean%2C+animated+and+responsive+UIs.;Fueled+by+React%2C+GSAP%2C+Tailwind+and+coffee." alt="intro typing animation" />
 </p>
 
 ---
 
 ### 🧭 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=300&lines=About+Me" alt="About Me Typing" />
 
-Ahoy! I'm **Xebec13**, a focused and fearless Front-End Developer.  
+I'm **Xebec13**, a focused and fearless Front-End Developer.  
 I build fast, responsive, and visually sharp web apps using **HTML, CSS, JavaScript**, and **React**.  
 I code with precision, design with intention, and deploy with style.  
 Always in search of beauty in code, I sail beyond the basics — into animation and design finesse with **<span style="color:#00FF00;font-weight:bold;">GSAP.js</span>**, **Figma**, and **Tailwind CSS**.
