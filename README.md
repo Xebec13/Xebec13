@@ -1,15 +1,20 @@
+<h3 align="center">⚓ I’m Xebec13 — Front-End Developer with a pirate’s grit and a craftsman’s eye for UI.</h3>
+
+---
+
 ### 🧭 About Me
 
-I'm **Xebec13**, a focused and fearless Front-End Developer.  
+Ahoy! I'm **Xebec13**, a focused and fearless Front-End Developer.  
 I build fast, responsive, and visually sharp web apps using **HTML, CSS, JavaScript**, and **React**.  
 I code with precision, design with intention, and deploy with style.  
-Always in search of beauty in code, I sail beyond the basics — into animation and design finesse with **GSAP.js** and **Tailwind CSS**.
+Always in search of beauty in code, I sail beyond the basics — into animation and design finesse with **<span style="color:#00FF00;font-weight:bold;">GSAP.js</span>**, **Figma**, and **Tailwind CSS**.
 
 ---
 
 ### 🌱 Currently learning
 
-- **Vue.js** and **Express.js** – expanding my reach across the full stack.
+- **TypeScript**, **Three.js**, and everything related to **web animation**  
+- Exploring creative coding, 3D effects, motion, and interaction design for immersive UI experiences
 
 ---
 
@@ -39,12 +44,13 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="https://greensock.com/uploads/monthly_2020_04/gsap-dark.png.38f8cfc1d9ef4f12f30f5abf515d9d69.png" alt="gsap" width="40" height="40"/>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
 
-<p align="left"><i>I specialize in HTML, CSS, JavaScript, and React — but I also love working with GSAP for animations and Tailwind CSS for utility-first styling.</i></p>
+<p align="left"><strong style="color:#00FF00">GSAP.js</strong> is my go-to for smooth and creative animations.  
+I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI design, animation, and visual interaction.</p>
 
 ---
 
@@ -56,9 +62,6 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
   </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
