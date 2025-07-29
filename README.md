@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Xebec13!;Crafting+clean%2C+animated+and+responsive+UIs.;Fueled+by+React%2C+GSAP%2C+Tailwind+and+coffee." alt="intro typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Xebec13!;Crafting+clean%2C+animated+and+responsive+UIs.;Fueled+by+React%2C+GSAP%2C+Tailwind" alt="intro typing animation" />
 </p>
 
 ---
@@ -72,9 +72,7 @@ I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI 
 
 ### 💼 <span style="font-size: 1.5rem; display: block; text-align: left;">Projects Coming Soon...</span>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FF00&center=true&width=435&lines=Future+portfolio+projects+coming+soon...;Stay+tuned...+for+interactive+UI+magic!;3D,+motion+and+GSAP-powered+creations!" alt="Animated project banner" />
-</p>
+
 
 ---
 
