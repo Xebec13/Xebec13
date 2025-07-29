@@ -28,7 +28,7 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
 
 ### ⚡ Specializing In
 
-<p align="left">
+<p align="center ">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -50,7 +50,7 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
   <i style="font-size:40px; margin-left:8px;"><strong style="color:#00FF00;">GSAP.js</strong></i>
 </p>
 
-<p align="left"><strong style="color:#00FF00">GSAP.js</strong> is my go-to for smooth and creative animations.  
+<p align="center"><strong style="color:#00FF00">GSAP.js</strong> is my go-to for smooth and creative animations.  
 I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI design, animation, and visual interaction.</p>
 
 ---
