@@ -1,4 +1,4 @@
-<h3 align="center">⚓ Front-End Developer with a pirate’s grit and a craftsman’s eye for UI.</h3>
+<h3 align="center" style="font-size: 1.8rem;">⚓ Front-End Developer with a pirate’s grit and a craftsman’s eye for UI.</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧭 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=300&lines=About+Me" alt="About Me Typing" />
+### 🧭 <span style="font-size: 1.5rem; display: block; text-align: left;">About Me</span>
 
 I'm **Xebec13**, a focused and fearless Front-End Developer.  
 I build fast, responsive, and visually sharp web apps using **HTML, CSS, JavaScript**, and **React**.  
@@ -17,14 +17,14 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
 
 ---
 
-### 🌱 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=350&lines=Currently+Learning" alt="Currently Learning Typing" />
+### 🌱 <span style="font-size: 1.5rem; display: block; text-align: left;">Currently Learning</span>
 
 - **TypeScript**, **Three.js**, and everything related to **web animation**  
 - Exploring creative coding, 3D effects, motion, and interaction design for immersive UI experiences
 
 ---
 
-### 📫 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=320&lines=Reach+Me" alt="Reach me Typing" />
+### 📫 <span style="font-size: 1.5rem; display: block; text-align: left;">Reach Me</span>
 
 - **Email**: dhoesen@gmail.com  
 - **Codepen**: [codepen.io/xebec13](https://codepen.io/xebec13)  
@@ -32,7 +32,7 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
 
 ---
 
-### ⚡ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=340&lines=Specializing+In" alt="Specializing In Typing" />
+### ⚡ <span style="font-size: 1.5rem; display: block; text-align: left;">Specializing In</span>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin-right:20px;" />
@@ -49,7 +49,7 @@ I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI 
 
 ---
 
-### 🛠️ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=380&lines=Other+Tools+%26+Technologies" alt="Tools Typing" />
+### 🛠️ <span style="font-size: 1.5rem; display: block; text-align: left;">Other Tools & Technologies</span>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" style="margin-right:20px;" />
@@ -70,7 +70,7 @@ I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI 
 
 ---
 
-### 💼 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=280&lines=Projects+Coming+Soon..." alt="Projects Typing" />
+### 💼 <span style="font-size: 1.5rem; display: block; text-align: left;">Projects Coming Soon...</span>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=00FF00&center=true&width=435&lines=Future+portfolio+projects+coming+soon...;Stay+tuned+for+interactive+UI+magic!;3D,+motion+and+GSAP-powered+creations!" alt="Animated project banner" />
@@ -78,7 +78,7 @@ I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI 
 
 ---
 
-### 📊 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF00&width=280&lines=GitHub+Stats" alt="Stats Typing" />
+### 📊 <span style="font-size: 1.5rem; display: block; text-align: left;">GitHub Stats</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xebec13&show_icons=true&locale=en&layout=compact" alt="xebec13" style="margin-bottom:10px;" />
