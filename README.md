@@ -35,21 +35,20 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
 ### ⚡ Specializing In
 
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma,gsap" alt="skills icons" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma" alt="skills icons" style="margin-right:20px;" />
+  <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" alt="GSAP Logo" width="40" height="40" style="vertical-align:middle; filter: brightness(0) saturate(100%) invert(51%) sepia(98%) saturate(560%) hue-rotate(82deg) brightness(92%) contrast(88%);" />
 </p>
 
-I specialize in HTML, CSS, JavaScript, and React — with a deep interest in UI design, animation, and visual interaction.
+I specialize in HTML, CSS, JavaScript, React — and I use **GSAP.js** extensively for smooth and creative animations.
 
 ---
 
 ### 🛠️ Other Tools & Technologies
 
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+ 
     <img src="https://skillicons.dev/icons?i=bootstrap,sass,git,nodejs,express,nextjs,mongodb,mysql,postgresql,sqlite,python,typescript,linux" alt="tools icons" />
-  </a>
+ 
 </p>
 
 ---
