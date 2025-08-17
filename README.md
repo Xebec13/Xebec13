@@ -27,8 +27,6 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
 ### 📫 Reach Me
 
 - **Email**: dhoesen@gmail.com  
-- **Codepen**: [codepen.io/xebec13](https://codepen.io/xebec13)  
-- **Stack Overflow**: [Xebec13 on StackOverflow](https://stackoverflow.com/users/xebec13)
 
 ---
 
@@ -38,12 +36,11 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma" alt="skills icons" />
   </a>
-  <a href=# >
     
   <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" alt="GSAP Logo" width="40" height="40"/>
-  </a>
+  
 </p>
-I specialize in HTML, CSS, JavaScript, React — and I use **GSAP.js** extensively for smooth and creative animations.
+I specialize in HTML, CSS, JavaScript, React — and I use **GSAP** extensively for smooth and creative animations.
 
 ---
 
@@ -51,7 +48,7 @@ I specialize in HTML, CSS, JavaScript, React — and I use **GSAP.js** extensive
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap,sass,git,nodejs,express,nextjs,mongodb,mysql,postgresql,sqlite,python,typescript,linux" alt="tools icons" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,sass,typescript,python,nextjs,nodejs,express,mongodb,mysql,postgresql,sqlite" alt="tools icons" />
   </a>
 </p>
 
