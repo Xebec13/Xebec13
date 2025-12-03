@@ -55,14 +55,9 @@ I specialize in HTML, CSS, JavaScript, React — and I use **GSAP** extensively 
 ---
 
 ### 💼 Projects Coming Soon...
-
+Basketball Podcast
+Google rating plugin (more info coming soon)
 
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xebec13&show_icons=true&locale=en&layout=compact" alt="xebec13 top languages" style="margin-bottom:10px;" />
-</p>
 
