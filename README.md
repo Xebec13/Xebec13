@@ -23,7 +23,7 @@ I sail beyond the basics — I specialize in creating immersive UI experiences w
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,figma" alt="specialized skills" />
     <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" alt="GSAP" width="40" height="40"/>
-    <img src="https://repository-images.githubusercontent.com/349650107/86250cbf-4caf-4486-a08b-32b89ab13810" alt="Motion" width="40" height="40"/>
+    <img src="https://repository-images.githubusercontent.com/349650107/86250cbf-4caf-4486-a08b-32b89ab13810" alt="Motion" width="80" height="80"/>
   </a>
 </p>
 
