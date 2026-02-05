@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Xebec13!;Crafting+clean%2C+animated+and+responsive+UIs.;Fueled+by+React%2C+GSAP%2C+Tailwind" alt="intro typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Xebec13!;Crafting+high-performance+web+apps.;Next.js+15%2C+Framer+Motion+%26+TypeScript." alt="intro typing animation" />
 </p>
 
 ---
@@ -11,22 +11,9 @@
 ### 🧭 About Me
 
 I'm **Xebec13**, a focused and fearless Front-End Developer.  
-I build fast, responsive, and visually sharp web apps using **HTML, CSS, JavaScript**, and **React**.  
-I code with precision, design with intention, and deploy with style.  
-Always in search of beauty in code, I sail beyond the basics — into animation and design finesse with **<span style="color:#00FF00;font-weight:bold;">GSAP.js</span>**, **Figma**, and **Tailwind CSS**.
+I build ultra-fast, responsive, and visually sharp web apps using **Next.js**, **TypeScript**, and **React**.  
 
----
-
-### 🌱 Currently Learning
-
-- **TypeScript**, **Three.js**, and everything related to **web animation**  
-- Exploring creative coding, 3D effects, motion, and interaction design for immersive UI experiences
-
----
-
-### 📫 Reach Me
-
-- **Email**: dhoesen@gmail.com  
+I sail beyond the basics — I specialize in creating immersive UI experiences with **Framer Motion**, **GSAP**, and **Tailwind CSS**. My focus is always on **99% Performance** and clean, scalable code.
 
 ---
 
@@ -34,13 +21,18 @@ Always in search of beauty in code, I sail beyond the basics — into animation 
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwind,figma" alt="skills icons" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,react,motion,tailwind,gsap,figma" alt="specialized skills" />
   </a>
-    
-  <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" alt="GSAP Logo" width="40" height="40"/>
-  
 </p>
-I specialize in HTML, CSS, JavaScript, React — and I use **GSAP** extensively for smooth and creative animations.
+
+I build "hands-off" automated systems (Content Hubs) and high-performance interfaces that bridge the gap between design and motion.
+
+---
+
+### 🌱 Currently Exploring
+
+- **Three.js** and **React Three Fiber** for 3D web experiences.
+- Creative coding and advanced shader interactions.
 
 ---
 
@@ -48,16 +40,29 @@ I specialize in HTML, CSS, JavaScript, React — and I use **GSAP** extensively 
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap,sass,typescript,python,nextjs,nodejs,express,mongodb,mysql,postgresql,sqlite" alt="tools icons" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,nodejs,mongodb,mysql,postgresql,git,py,vite" alt="tools icons" />
   </a>
 </p>
 
 ---
 
-### 💼 Projects Coming Soon...
-Basketball Podcast
-Google rating plugin (more info coming soon)
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xebec13&layout=compact&theme=dark&hide_border=true&title_color=00FF00&icon_color=00FF00" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xebec13&show_icons=true&theme=dark&hide_border=true&title_color=00FF00&icon_color=00FF00" alt="GitHub Stats" />
+</p>
 
 ---
 
+### 📫 Reach Me
+
+<p align="left">
+  <a href="mailto:dhoesen@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/TwojLinkedIn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+</p>
