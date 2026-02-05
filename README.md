@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Xebec13!;Crafting+high-performance+web+apps.;Next.js+15%2C+Framer+Motion+%26+TypeScript." alt="intro typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Xebec13!;Crafting+high-performance+web+apps.;Next.js+15%2C+Motion+%26+TypeScript." alt="intro typing animation" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ I sail beyond the basics — I specialize in creating immersive UI experiences w
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,figma" alt="specialized skills" />
     <img src="https://svgstack.com/media/img/gsap-logo-dNe6788698.webp" alt="GSAP" width="40" height="40"/>
-    <img src="[https://svgstack.com/media/img/gsap-logo-dNe6788698.webp](https://repository-images.githubusercontent.com/349650107/86250cbf-4caf-4486-a08b-32b89ab13810)" alt="Motion" width="40" height="40"/>
+    <img src="https://repository-images.githubusercontent.com/349650107/86250cbf-4caf-4486-a08b-32b89ab13810" alt="Motion" width="40" height="40"/>
   </a>
 </p>
 
@@ -32,10 +32,11 @@ I build "hands-off" automated systems (Content Hubs) and high-performance interf
 ---
 
 ### 🌱 Currently Exploring
-
-- **Three.js** and **React Three Fiber** for 3D web experiences.
-- Creative coding and advanced shader interactions.
-
+- TanStack Query & server state patterns
+- Advanced React patterns (RSC, Server Actions)
+- Frontend architecture & design patterns
+- Performance optimization in React & TypeScript
+- UI design systems and visual patterns
 ---
 
 ### 🛠️ Other Tools & Technologies
