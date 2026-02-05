@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Xebec13!;Crafting+high-performance+web+apps.;Next.js+15%2C+Motion+%26+TypeScript." alt="intro typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=I'm+Xebec13!;Crafting+high-performance+web+apps.;Next.js%2C+Motion+%26+TypeScript." alt="intro typing animation" />
 </p>
 
 ---
