@@ -56,8 +56,8 @@ I build "hands-off" automated systems (Content Hubs) and high-performance interf
     dhoesen@gmail.com
   </a>
 </p>
-<p align="left">
-<a href="[https://linkedin.com/in/TwojLinkedIn](https://www.linkedin.com/in/david-hoesen-054257308/)" target="_blank">
+
+<a href="https://www.linkedin.com/in/david-hoesen-054257308/" target="_blank">
     linkedin
   </a>
-</p>
+
