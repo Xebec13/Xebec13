@@ -53,9 +53,9 @@ I build "hands-off" automated systems (Content Hubs) and high-performance interf
 
 <p align="left">
   <a href="mailto:dhoesen@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail" />
+    dhoesen@gmail.com
   </a>
   <a href="[https://linkedin.com/in/TwojLinkedIn](https://www.linkedin.com/in/david-hoesen-054257308/)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+    linkedin
   </a>
 </p>
