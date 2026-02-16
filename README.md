@@ -50,16 +50,16 @@ I build "hands-off" automated systems (Content Hubs) and high-performance interf
 
 
 ### 📫 Reach Me
-<a href="https://dhoesen.netlify.app">
-Website 
-</a>
 
-<a href="mailto:dhoesen@gmail.com">
-    dhoesen@gmail.com
-</a>
+<p align="left">
+<a href="https://dhoesen.netlify.app"> Website </a>
+</p>
 
+<p align="left">
+<a href="mailto:dhoesen@gmail.com"> dhoesen@gmail.com </a>
+</p>
 
-<a href="https://www.linkedin.com/in/david-hoesen-054257308/" target="_blank">
-    linkedin
-</a>
+<p align="left">
+<a href="https://www.linkedin.com/in/david-hoesen-054257308/" target="_blank"> linkedin </a>
+</p>
 
